@@ -1,9 +1,6 @@
 # Find the bug 🕵️
 
-I initially found this task and was about to skip it but then the last shot i decided to give it thankfully fixed all the errors and ran the server and client.
-This was a really good task.
+I felt this task was way above my league but I somehow I managed to pull it all together by the end.
 
-### Working Sample
-This video shows how the final application should be like
 
 
